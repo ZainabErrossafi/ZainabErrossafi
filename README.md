@@ -4,49 +4,35 @@
 
 I'm a Software Engineering student at **Ibn Zohr University** and **1337 Coding School**, interested in software development, web applications, and software design.
 
-I enjoy learning through practical projects, solving technical problems, and working in collaborative environments.
+I enjoy building practical projects, solving technical problems, and learning through project-based development and collaboration.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+**Languages**
 
-* C
-* C++
-* Python
-* Java
-* JavaScript
-* PHP
+`C` `C++` `Python` `Java` `JavaScript` `PHP`
 
-### Web Development
+**Web Development**
 
-* React
-* Django
-* REST APIs
-* HTML
-* CSS
+`React` `Django` `REST APIs` `HTML` `CSS`
 
-### Databases
+**Databases**
 
-* PostgreSQL
-* MySQL
-* SQL
+`PostgreSQL` `MySQL` `SQL`
 
-### Tools & Environment
+**Tools & Environment**
 
-* Git & GitHub
-* Docker
-* Linux
-* UML
+`Git` `GitHub` `Docker` `Linux` `UML`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🚗 Car Rental Management Application
 
-A web application for managing car rentals, including vehicles, clients, reservations, rentals and administration.
+A web application for managing car rentals, including vehicles, clients, reservations, rentals, and administration.
 
 **Technologies:** Django · React · PostgreSQL · Docker
 
@@ -64,7 +50,7 @@ Implementation and experimentation of a reinforcement learning agent in the Taxi
 
 ### 💻 1337 Coding School Projects
 
-Various programming projects covering algorithms, data structures, system programming, memory management and problem solving.
+A collection of programming projects covering algorithms, data structures, system programming, memory management, and problem solving.
 
 **Technologies:** C · C++
 
@@ -79,17 +65,17 @@ Various programming projects covering algorithms, data structures, system progra
 
 ---
 
-## 🌱 Currently
+## 🌱 Currently Learning
 
-* Improving my software development skills
-* Building practical projects
-* Exploring different areas of software engineering
-* Learning through project-based development and peer learning
+* Software development
+* Web application development
+* Software architecture and design
+* Algorithms and problem solving
+* Collaborative development with Git and GitHub
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-* LinkedIn: [Zainab Errossafi](https://www.linkedin.com/in/zainab-errossafi-80535b346/)
-* GitHub: [@ZainabErrossafi](https://github.com/ZainabErrossafi)
-
+* **LinkedIn:** [Zainab Errossafi](https://www.linkedin.com/in/zainab-errossafi-80535b346/)
+* **GitHub:** [@ZainabErrossafi](https://github.com/ZainabErrossafi)
